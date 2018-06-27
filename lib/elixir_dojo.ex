@@ -1,0 +1,2 @@
+defmodule ElixirDojo do
+end
